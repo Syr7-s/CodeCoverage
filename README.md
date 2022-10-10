@@ -1,4 +1,4 @@
-# 05_02 Publish test results and code coverage reports
+# Code Coverage
 ## Report formats
 ### JUnit test report format
 JUnit reports are XML documents that describe the results of a test.  The JUnit format was originally developed for Java programs but many other languages have adopted this reporting format.  This makes JUnit the standard for creating test reports.
